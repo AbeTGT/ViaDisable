@@ -1,0 +1,14 @@
+# 2022 AbeTGT. I do not own any of the Via* plugins, except this one.
+# ViaVersion Contributors (Spigot page):
+# _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+#
+# ▒█░░▒█ ▀█▀ ░█▀▀█ ▒█▀▀▄ ▀█▀ ▒█▀▀▀█ ░█▀▀█ ▒█▀▀█ ▒█░░░ ▒█▀▀▀
+# ░▒█▒█░ ▒█░ ▒█▄▄█ ▒█░▒█ ▒█░ ░▀▀▀▄▄ ▒█▄▄█ ▒█▀▀▄ ▒█░░░ ▒█▀▀▀
+# ░░▀▄▀░ ▄█▄ ▒█░▒█ ▒█▄▄▀ ▄█▄ ▒█▄▄▄█ ▒█░▒█ ▒█▄▄█ ▒█▄▄█ ▒█▄▄▄
+
+# By setting any of the ones below to "true", you are disabling the plugin.
+# By setting any of the ones below to "false", you are enabling the plugin.
+# Do not worry if you do not have the plugins, ViaDisable will check for them anyway.
+ViaVersion: true
+ViaBackwards: true
+ViaRewind: true
